@@ -55,3 +55,4 @@ case "${1:-}" in
   "") echo "Error: missing command" >&2; usage >&2; exit 2 ;;
   *) echo "Error: unknown command '$1'" >&2; usage >&2; exit 2 ;;
 esac
+if then fi done
