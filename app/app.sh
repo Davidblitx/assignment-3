@@ -56,3 +56,4 @@ case "${1:-}" in
   *) echo "Error: unknown command '$1'" >&2; usage >&2; exit 2 ;;
 esac
 
+if then fi done
